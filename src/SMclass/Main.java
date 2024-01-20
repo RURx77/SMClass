@@ -1,5 +1,6 @@
 package SMclass;
 
+// main class for fooling around with thoughts from SM class
 public class Main {
 
 	public static void main(String[] args) {
