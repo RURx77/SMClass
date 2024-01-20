@@ -1,6 +1,7 @@
 package SMclass;
 
 // main class for fooling around with thoughts from SM class
+// Should be in the New Developer1 branch now
 public class Main {
 
 	public static void main(String[] args) {
