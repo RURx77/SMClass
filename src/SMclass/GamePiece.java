@@ -1,5 +1,8 @@
 package SMclass;
 
+
+// new comment in GamePiece Class
+
 public class GamePiece extends Piece{
 
 	public String getPlayer() {
